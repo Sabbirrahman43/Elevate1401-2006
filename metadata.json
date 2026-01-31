@@ -1,0 +1,7 @@
+{
+  "name": "Elevate1401",
+  "description": "A long-term Personal Progress Tracker where the tracking engine is the authority and the AI is a configurable communication layer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
